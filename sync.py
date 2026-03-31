@@ -17,7 +17,7 @@ def run_sync():
     
     # You can paste your 700 links here or a single Playlist URL
     urls = [
-        'https://www.youtube.com/watch?v=vZpVgetTSKs&list=RD7SACxTvWI8I&index=14'
+        'https://www.youtube.com/playlist?list=PLt5p2ajYSAEf86g130wc8X9MRAvc2u15Q'
     ]
     
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
